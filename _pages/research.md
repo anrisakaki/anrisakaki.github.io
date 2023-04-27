@@ -14,7 +14,7 @@ Much is understood about how trade affects gender inequality in terms of labour 
 
 </details>
 
-[Draft here](https://anrisakaki.github.io/files/Trade_induced_structural_transformation_and_the_spousal_wage_gap.pdf)
+[Working paper here](https://anrisakaki.github.io/files/Trade_induced_structural_transformation_and_the_spousal_wage_gap.pdf)
 
 ### Trade Policy and Jobs in Vietnam: The Unintended Consequences of Trump’s Trade War
 with Sanchari Roy, Lorenzo Rutonno, and Pierre-Louis Vezina
