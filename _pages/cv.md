@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](anrisakaki.github.io/files/Anri_Academic_CV.pdf)
+[Download CV here](https://anrisakaki.github.io/files/Anri_Academic_CV.pdf)
