@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD Candidate at the Department of Political Economy at King's College London. 
+I am a third-year PhD Candidate at the * Department of Political Economy, King's College London *. 
 
 My research employs econometric methods to study the impact of structural transformation on gender equality in developing countries. My research is funded by STEG (CEPR) and BA. 
 
