@@ -14,6 +14,8 @@ My research employs econometric methods to study the impact of structural transf
 
 I am also a PGTA at King's College London and Univeristy College London. 
 
+Feel free to get in touch with me at: anri.sakakibara@kcl.ac.uk 
+
 ### Research interests: 
 
 * Development
