@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 --- 
 
-### Trade-induced structural transformation and household-level inequality: Lessons from Vietnam
+### Trade-induced structural transformation and household-level inequality: Lessons from Vietnam (JMP)
 
 <details>
 <summary> Abstract </summary>
