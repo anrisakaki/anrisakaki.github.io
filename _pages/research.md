@@ -29,3 +29,7 @@ We use the US-China trade war as an exogenous shock to export opportunities in V
 [Working paper here](https://anrisakaki.github.io/files/Trump_and_Vietnam.pdf)
 
 ### Firm-level response to mandated maternity leave extension: Evidence from the Vietnamese Enterprise Census
+
+### The mental health costs of structural transformation in Vietnam
+_with Abu Siddique_
+
