@@ -33,5 +33,5 @@ We use the US-China trade war as an exogenous shock to export opportunities in V
 ### From slums to fFactories: Assessing the mental health impacts of structural transformation among the urban poor in Bangladesh
 _with Abu Siddique, Michael Vlassopoulos, Nusaiba Binte Zakaria_
 
-### Using psychological intervensions to increase female worker hiring in Pakistan 
+### Using psychological interventions to increase female worker hiring in Pakistan 
 _with Abu Siddique and Waqar Wadho_
