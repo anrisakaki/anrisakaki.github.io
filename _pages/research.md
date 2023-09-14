@@ -17,7 +17,7 @@ There is little consensus on whether access to foreign export markets can promot
 [Working paper here](https://anrisakaki.github.io/files/Trade_induced_structural_transformation_and_the_spousal_wage_gap.pdf)
 
 ### Trade Policy and Jobs in Vietnam: The Unintended Consequences of Trump’s Trade War
-_with Sanchari Roy, Lorenzo Rutonno, and Pierre-Louis Vezina_
+_with Sanchari Roy, Lorenzo Rotunno, and Pierre-Louis Vezina_
 
 <details>
 <summary> Abstract </summary>
@@ -30,7 +30,7 @@ We use the US-China trade war as an exogenous shock to export opportunities in V
 
 ### Firm-level response to mandated maternity leave extension: Evidence from the Vietnamese Enterprise Census
 
-### From slums to fFactories: Assessing the mental health impacts of structural transformation among the urban poor in Bangladesh
+### From slums to factories: Assessing the mental health impacts of structural transformation among the urban poor in Bangladesh
 _with Abu Siddique, Michael Vlassopoulos, Nusaiba Binte Zakaria_
 
 ### Using psychological interventions to increase female worker hiring in Pakistan 
