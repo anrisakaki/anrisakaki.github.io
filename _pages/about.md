@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD Candidate at the **Department of Political Economy, King's College London**. 
 
-I am interested in understanding the causes and effects of structural transformation in developing countries, and how this interacts with gender equality. 
+My research focuses on the causes and effects of structural transformation in developing countries, and how this interacts with gender equality.
 
 Feel free to get in touch with me at: anri.sakakibara@kcl.ac.uk 
 
