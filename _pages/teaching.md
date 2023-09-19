@@ -9,6 +9,7 @@ author_profile: true
 * 4SSPP109 Quantitative Methods
 * 4SSPP111 Quantitative Methods for Political Science
 * 5SSPP232 Mathematics for Economists
+* 5SSPP217 Microeconomics 
 * 6SSPP362 International Trade
 
 ### University College London
