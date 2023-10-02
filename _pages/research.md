@@ -28,6 +28,8 @@ We use the US-China trade war as an exogenous shock to export opportunities in V
 
 [Working paper here](https://anrisakaki.github.io/files/Trump_and_Vietnam.pdf)
 
+### The long-term and intergenerational effects of the Vietnam War 
+
 ### Firm-level response to mandated maternity leave extension: Evidence from the Vietnamese Enterprise Census
 
 ### From slums to factories: Assessing the mental health impacts of structural transformation among the urban poor in Bangladesh
