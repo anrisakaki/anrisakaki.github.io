@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 --- 
 
-### Trade-induced structural transformation and household-level inequality: Lessons from Vietnam (JMP)
+### Trade-induced Structural Transformation and Household-level Inequality: Lessons from Vietnam (JMP)
 
 <details>
 <summary> Abstract </summary>
@@ -28,12 +28,12 @@ We use the US-China trade war as an exogenous shock to export opportunities in V
 
 [Working paper here](https://anrisakaki.github.io/files/Trump_and_Vietnam.pdf)
 
-### The long-term and intergenerational effects of the Vietnam War on human capital accumulation
+### The Long-Term and Intergenerational Effects of the Vietnam War on Female Labour
 
-### Firm-level response to mandated maternity leave extension: Evidence from the Vietnamese Enterprise Census
+### Firm-Level Response to Mandated Maternity Leave Extension: Evidence from the Vietnamese Enterprise Census
 
-### From slums to factories: Assessing the mental health impacts of structural transformation among the urban poor in Bangladesh
-_with Abu Siddique, Michael Vlassopoulos, Nusaiba Binte Zakaria_
+### From Slums to Factories: Assessing the Mental Health Impacts of Structural Transformation Among the Urban Poor in Bangladesh
+_with Abu Siddique, Michael Vlassopoulos, and Nusaiba Binte Zakaria_
 
-### Using psychological interventions to increase female worker hiring in Pakistan 
+### Managers’ and Households’ Attitude Toward Women Working in Factories: Role Model Firms and Information Interventions in Pakistan
 _with Abu Siddique and Waqar Wadho_
