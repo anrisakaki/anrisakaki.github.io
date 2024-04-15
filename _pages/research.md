@@ -5,9 +5,10 @@ permalink: /research/
 author_profile: true
 --- 
 
-### Trade-induced Structural Transformation and Household-level Inequality: Lessons from Vietnam (JMP)
-
+### Trade-induced Structural Transformation and Household-level Inequality: Lessons from Vietnam 
 <details>
+
+  _Funded by STEG - CEPR_
 <summary> Abstract </summary>
 
 There is little consensus on whether access to foreign export markets can promote gender equality in developing countries. This paper leverages the US-Vietnam Bilateral Trade Agreement (BTA) that came into force in 2001 as a natural experiment to explore whether the disproportionate expansion of the female-intensive wearing apparel sector can trigger the structural transformation of the female labour force in a way which promotes gender equality at the household level. By using a difference-in-differences strategy and through relying on panel data, I find that women residing in provinces that were more exposed to the BTA were more likely to work in the wearing apparel sector and increased their income relative to their husbands. I then examine whether the improvement in labour market opportunities and relative income of women led to changes in the allocation of resources that could be indicative of higher female intrahousehold bargaining power. I find that household consumption of `female-preferred' goods did not increase in provinces that experienced more exposure to the BTA.
@@ -18,7 +19,7 @@ There is little consensus on whether access to foreign export markets can promot
 
 ### Trade Policy and Jobs in Vietnam: The Unintended Consequences of Trump’s Trade War
 _with Sanchari Roy, Lorenzo Rotunno, and Pierre-Louis Vezina_
-
+_Funded by BA-Leverhulme SRG_
 <details>
 <summary> Abstract </summary>
 
@@ -37,3 +38,4 @@ _with Abu Siddique, Michael Vlassopoulos, and Nusaiba Binte Zakaria_
 
 ### Managers’ and Households’ Attitude Toward Women Working in Factories: Role Model Firms and Information Interventions in Pakistan
 _with Abu Siddique and Waqar Wadho_
+_Funded by PEDL (MRG)_
