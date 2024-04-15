@@ -7,7 +7,6 @@ author_profile: true
 
 ### Trade-induced Structural Transformation and Household-level Inequality: Lessons from Vietnam 
 <details>  
-Funding from STEG_CEPR. 
 <summary> Abstract </summary>
 
 There is little consensus on whether access to foreign export markets can promote gender equality in developing countries. This paper leverages the US-Vietnam Bilateral Trade Agreement (BTA) that came into force in 2001 as a natural experiment to explore whether the disproportionate expansion of the female-intensive wearing apparel sector can trigger the structural transformation of the female labour force in a way which promotes gender equality at the household level. By using a difference-in-differences strategy and through relying on panel data, I find that women residing in provinces that were more exposed to the BTA were more likely to work in the wearing apparel sector and increased their income relative to their husbands. I then examine whether the improvement in labour market opportunities and relative income of women led to changes in the allocation of resources that could be indicative of higher female intrahousehold bargaining power. I find that household consumption of `female-preferred' goods did not increase in provinces that experienced more exposure to the BTA.
@@ -15,6 +14,8 @@ There is little consensus on whether access to foreign export markets can promot
 </details>
 
 [Draft here](https://anrisakaki.github.io/files/Trade_induced_structural_transformation_and_the_spousal_wage_gap.pdf)
+
+Funding from STEG_CEPR. 
 
 ### Trade Policy and Jobs in Vietnam: The Unintended Consequences of Trump’s Trade War
 _with Sanchari Roy, Lorenzo Rotunno, and Pierre-Louis Vezina_
