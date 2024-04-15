@@ -15,7 +15,7 @@ There is little consensus on whether access to foreign export markets can promot
 
 [Draft here](https://anrisakaki.github.io/files/Trade_induced_structural_transformation_and_the_spousal_wage_gap.pdf)
 
-Funding from STEG_CEPR. 
+_Funding from STEG (CEPR) PhD Grant_. 
 
 ### Trade Policy and Jobs in Vietnam: The Unintended Consequences of Trump’s Trade War
 _with Sanchari Roy, Lorenzo Rotunno, and Pierre-Louis Vezina_
