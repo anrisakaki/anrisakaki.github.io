@@ -15,7 +15,7 @@ There is little consensus on whether access to foreign export markets can promot
 
 [Draft here](https://anrisakaki.github.io/files/Trade_induced_structural_transformation_and_the_spousal_wage_gap.pdf)
 
-_Funding from STEG (CEPR) PhD Grant_. 
+_Funded by STEG (CEPR) PhD Grant_. 
 
 ### Trade Policy and Jobs in Vietnam: The Unintended Consequences of Trump’s Trade War
 _with Sanchari Roy, Lorenzo Rotunno, and Pierre-Louis Vezina_
@@ -25,6 +25,8 @@ _with Sanchari Roy, Lorenzo Rotunno, and Pierre-Louis Vezina_
 We use the US-China trade war as an exogenous shock to export opportunities in Vietnam and examine its effect on Vietnam’s exports and labor markets. We find that Vietnamese exports to the US were around 40 percent higher in 2020 relative to 2017 in sectors hit by US tariffs on Chinese products. This increase is driven by both new export product varieties and increased exports in existing categories. This expansion in export opportunities led to job creation and increased working hours in affected sectors relative to non-affected ones. It also led to an increase in wages, even more so for women workers.
 
 </details>
+
+_Funded by BA-Leverhulme SRG_. 
 
 [Working paper here](https://anrisakaki.github.io/files/Trump_and_Vietnam.pdf)
 
@@ -36,4 +38,4 @@ We use the US-China trade war as an exogenous shock to export opportunities in V
 _with Abu Siddique, Michael Vlassopoulos, and Nusaiba Binte Zakaria_
 
 ### Managers’ and Households’ Attitude Toward Women Working in Factories: Role Model Firms and Information Interventions in Pakistan
-_with Abu Siddique and Waqar Wadho_
+_with Abu Siddique and Waqar Wadho_.
