@@ -42,5 +42,6 @@ War-induced demographic shocks have been shown to increase female labour force p
 _with Abu Siddique, Michael Vlassopoulos, and Nusaiba Binte Zakaria_
 
 ### Managers’ and Households’ Attitude Toward Women Working in Factories: Role Model Firms and Information Interventions in Pakistan
-_with Abu Siddique and Waqar Wadho_.
+_with Abu Siddique and Waqar Wadho_
+
 _Funded by PEDL (MRG)_.
