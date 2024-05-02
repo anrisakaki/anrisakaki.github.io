@@ -34,7 +34,7 @@ _Funded by BA-Leverhulme SRG_.
 <details>
 <summary> Abstract </summary>
 War-induced demographic shocks have been shown to increase female labour force participation (FLFP). However, it is unclear as to whether these effects are long-lasting. Additionally, existing evidence predominantly stems from developed nations, which may not fully capture the dynamics in developing contexts due to differing levels of economic development and institutional frameworks. To explore the effect of conflict on female labour market outcomes in developing countries, this paper examines the impact of the Vietnam War 26 to 43 years after its conclusion. I leverage an OLS and difference-in-differences empirical strategy, and match comprehensive historical data on ordnance deployed by the United States in Vietnam to microdata and find that exposure to ordnance increased the probability of women in the South. Going from the 1st to 3rd quantile in exposure to ordnance increases the probability of women in the South working by 6 to 12 percentage points. I also find that this effect is persistent until present day. On the other hand, I find no effect of exposure to ordnance on Northern women, and all men throughout Vietnam. I further explore whether an increase in FLFP was driven by higher demand for female labour due to a shortage in male workers. Using the Vietnam Enterprise Census, I conclude that female labour supply increased without concomitant increase in demand as firms located in provinces that experienced higher exposure in ordnance did not exhibit a lower ratio of male to female workers.
-<details>
+</details>
 
 ### Firm-Level Response to Mandated Maternity Leave Extension: Evidence from the Vietnamese Enterprise Census
 
