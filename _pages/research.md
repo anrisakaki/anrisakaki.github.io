@@ -13,7 +13,7 @@ There is little consensus on whether access to foreign export markets can promot
 
 </details>
 
-[Draft here](https://anrisakaki.github.io/files/Trade_induced_structural_transformation_and_the_spousal_wage_gap.pdf)
+[Working paper here](https://anrisakaki.github.io/files/Trade_induced_structural_transformation_and_the_spousal_wage_gap.pdf)
 
 _Funded by STEG (CEPR) PhD Grant_. 
 
