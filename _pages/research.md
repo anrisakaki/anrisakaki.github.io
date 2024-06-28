@@ -26,9 +26,9 @@ We use the US-China trade war as an exogenous shock to export opportunities in V
 
 </details>
 
-_Funded by BA-Leverhulme SRG_. 
-
 [Working paper here](https://anrisakaki.github.io/files/Trump_and_Vietnam_.pdf)
+
+_Funded by BA-Leverhulme SRG_. 
 
 ### The Effect of the Vietnam War on Female Labour Market Outcomes
 <details>
