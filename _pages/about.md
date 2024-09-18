@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Follow at the Department of Economics, Technical University of Munich. I obtained my PhD in Economics from the Department of Political Economy, King's College London. 
+I am a Postdoctoral Follow at the Department of Economics, Technical University of Munich. 
+
+I obtained my PhD in Economics from the Department of Political Economy, King's College London. 
 
 Feel free to get in touch with me at: anri.sakakibara@kcl.ac.uk 
