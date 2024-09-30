@@ -4,6 +4,8 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 --- 
+### Technical University of Munich
+* Intermediate Microeconomics
 
 ### King's College London
 * 4SSPP109 Quantitative Methods
