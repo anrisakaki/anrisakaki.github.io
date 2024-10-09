@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 --- 
-### Technical University of Munich - As course convenor
+### Technical University of Munich - as course convenor
 * Intermediate Microeconomics
 
 ### King's College London - as GTA
