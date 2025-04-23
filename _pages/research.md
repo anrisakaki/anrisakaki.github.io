@@ -16,7 +16,7 @@ There is little consensus on whether access to foreign export markets can promot
 _Funded by STEG (CEPR) PhD Grant_. 
 
 ### Trade Policy and Jobs in Vietnam: The Unintended Consequences of Trump’s Trade War
-_with Sanchari Roy, Lorenzo Rotunno, and Pierre-Louis Vezina_
+_with Sanchari Roy, Lorenzo Rotunno, and Pierre-Louis Vezina. R&R World Bank Economic Review._
 <details>
 <summary> Abstract </summary>
 
@@ -27,6 +27,7 @@ We use the US-China trade war as an exogenous shock to export opportunities in V
 _Funded by BA-Leverhulme SRG_. 
 
 ### The Effect of the Vietnam War on Female Labour Market Outcomes
+_Under review._
 <details>
 <summary> Abstract </summary>
 War results in demographic shocks and sex imbalance, both of which have been shown to increase female labour force participation (FLFP). Existing evidence on the nexus between conflict and FLFP predominantly stems from developed nations which may not fully capture the dynamics in developing contexts. This paper examines the impact of the Vietnam War on Vietnamese women's labour market outcomes 14 to 44 years after its conclusion. To this end, I match comprehensive historical data on ordnance deployed by the United States in Vietnam to microdata. While socialist ideology may have contributed to high FLFP rates in North Vietnam, I find that war-induced demographic shocks contributed to increasing FLFP rates in South Vietnam. Specifically, a one-standard deviation increase in historical bombing exposure is associated with an increase in the probability of Southern women working by 1.03 to 1.57 percentage points. On the other hand, I find that exposure to the Vietnam War is not associated to the FLFP rates in the North. In terms of mechanism, I find that war widows increased their labour supply to compensate for the negative income shock caused by the loss of their husbands. I also find that daughters of widows are more likely to work than daughters of non-widows. However, I find a lack of support for demand-side mechanisms, namely, substitution towards female labour.
@@ -36,3 +37,6 @@ War results in demographic shocks and sex imbalance, both of which have been sho
 _with Abu Siddique and Waqar Wadho_
 
 _Funded by PEDL (MRG)_.
+
+### 3G and Structural Transformation in Vietnam
+_with Erin Huynh._
