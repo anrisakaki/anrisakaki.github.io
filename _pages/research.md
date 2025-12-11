@@ -8,11 +8,11 @@ author_profile: true
 # Publications
 
 ### **Trade Policy and Jobs in Vietnam: The Unintended Consequences of Trump’s Trade War**. 
-Conditionally accepted at the World Bank Economic Review.
+Conditionally accepted at the World Bank Economic Review.  
 👥 *with Sanchari Roy, Lorenzo Rotunno, and Pierre-Louis Vézina*  
 🎓 *Funded by BA–Leverhulme SRG*
 
-<br><br> 
+<br>
 
 # Work in Progress
 
