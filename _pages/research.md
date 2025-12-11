@@ -7,7 +7,7 @@ author_profile: true
 
 # 📄 Publications
 
-### **Trade Policy and Jobs in Vietnam: The Unintended Consequences of Trump’s Trade War**. Conditionally accepted at the World Bank Economic Review
+### **Trade Policy and Jobs in Vietnam: The Unintended Consequences of Trump’s Trade War**. Conditionally accepted at the World Bank Economic Review.
 👥 *with Sanchari Roy, Lorenzo Rotunno, and Pierre-Louis Vézina*  
 🎓 *Funded by BA–Leverhulme SRG*
 
@@ -19,8 +19,7 @@ author_profile: true
 🎓 *Funded by STEG PhD Grant*
 ---
 
-### **The Effect of the Vietnam War on Female Labour Market Outcomes**  
-📤 *Under review*
+### **The Effect of the Vietnam War on Female Labour Market Outcomes** Under review.
 ---
 
 ### **Managers’ and Households’ Attitudes Toward Women Working in Factories: Role Model Firms and Information Interventions in Pakistan**  
