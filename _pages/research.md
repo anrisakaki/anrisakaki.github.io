@@ -4,6 +4,20 @@ title: "Research"
 permalink: /research/
 author_profile: true
 --- 
+Publications
+
+### Trade Policy and Jobs in Vietnam: The Unintended Consequences of Trump’s Trade War
+_with Sanchari Roy, Lorenzo Rotunno, and Pierre-Louis Vezina. Conditionally accepted at World Bank Economic Review._
+<details>
+<summary> Abstract </summary>
+
+We use the US-China trade war as an exogenous shock to export opportunities in Vietnam and examine its effect on Vietnam’s exports and labor markets. We find that Vietnamese exports to the US were around 40 percent higher in 2020 relative to 2017 in sectors hit by US tariffs on Chinese products. This increase is driven by both new export product varieties and increased exports in existing categories. This expansion in export opportunities led to job creation and increased working hours in affected sectors relative to non-affected ones. It also led to an increase in wages, even more so for women workers.
+
+</details>
+
+_Funded by BA-Leverhulme SRG_. 
+
+Work in Progress
 
 ### Trade-induced Structural Transformation and Household-level Inequality: Lessons from Vietnam 
 <details>  
@@ -13,18 +27,7 @@ There is little consensus on whether access to foreign export markets can promot
 
 </details>
 
-_Funded by STEG (CEPR) PhD Grant_. 
-
-### Trade Policy and Jobs in Vietnam: The Unintended Consequences of Trump’s Trade War
-_with Sanchari Roy, Lorenzo Rotunno, and Pierre-Louis Vezina. R&R World Bank Economic Review._
-<details>
-<summary> Abstract </summary>
-
-We use the US-China trade war as an exogenous shock to export opportunities in Vietnam and examine its effect on Vietnam’s exports and labor markets. We find that Vietnamese exports to the US were around 40 percent higher in 2020 relative to 2017 in sectors hit by US tariffs on Chinese products. This increase is driven by both new export product varieties and increased exports in existing categories. This expansion in export opportunities led to job creation and increased working hours in affected sectors relative to non-affected ones. It also led to an increase in wages, even more so for women workers.
-
-</details>
-
-_Funded by BA-Leverhulme SRG_. 
+_Funded by STEG PhD Grant_. 
 
 ### The Effect of the Vietnam War on Female Labour Market Outcomes
 _Under review._
@@ -36,7 +39,7 @@ War results in demographic shocks and sex imbalance, both of which have been sho
 ### Managers’ and Households’ Attitude Toward Women Working in Factories: Role Model Firms and Information Interventions in Pakistan
 _with Abu Siddique and Waqar Wadho_
 
-_Funded by PEDL (MRG)_.
+_Funded by PEDL MRG and STEG SRG_.
 
 ### 3G and Structural Transformation in Vietnam
 _with Erin Huynh._
