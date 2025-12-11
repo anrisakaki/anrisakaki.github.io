@@ -17,9 +17,11 @@ author_profile: true
 
 ### **Trade-induced Structural Transformation and Household-level Inequality: Lessons from Vietnam**  
 🎓 *Funded by STEG PhD Grant*
+
 ---
 
 ### **The Effect of the Vietnam War on Female Labour Market Outcomes** Under review.
+
 ---
 
 ### **Managers’ and Households’ Attitudes Toward Women Working in Factories: Role Model Firms and Information Interventions in Pakistan**  
