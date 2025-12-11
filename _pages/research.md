@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 --- 
-Publications
+#Publications
 
 ### Trade Policy and Jobs in Vietnam: The Unintended Consequences of Trump’s Trade War
 _with Sanchari Roy, Lorenzo Rotunno, and Pierre-Louis Vezina. Conditionally accepted at World Bank Economic Review._
@@ -17,7 +17,7 @@ We use the US-China trade war as an exogenous shock to export opportunities in V
 
 _Funded by BA-Leverhulme SRG_. 
 
-Work in Progress
+#Work in Progress
 
 ### Trade-induced Structural Transformation and Household-level Inequality: Lessons from Vietnam 
 <details>  
