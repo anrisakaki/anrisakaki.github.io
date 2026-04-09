@@ -1,11 +1,11 @@
----
-layout: archive
-title: ""
-permalink: /research/
-author_profile: true
----
+ ---
+  layout: archive
+  title: ""
+  permalink: /research/
+  author_profile: true
+  ---
 
- # Publications
+  # Publications
 
   **Trade Policy and Jobs in Vietnam: The Unintended Consequences of Trump's Trade War**
   *with Sanchari Roy, Lorenzo Rotunno, and Pierre-Louis Vézina*
