@@ -28,3 +28,4 @@ Under review
 
 ### **Mobile Internet and Structural Transformation in Vietnam**  
 👥 *with Erin Huynh*
+🎓 *Funded by BA–Leverhulme SRG*
