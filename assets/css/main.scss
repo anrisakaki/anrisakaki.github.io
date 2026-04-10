@@ -43,10 +43,7 @@
 @import "print";
 
 /* Override font with Merriweather */
-body {
-  font-family: 'Merriweather', Georgia, serif;
-}
-
+body, h1, h2, h3, h4, h5, h6,
 .page__content,
 .archive__item-excerpt,
 p, li, td, th {
