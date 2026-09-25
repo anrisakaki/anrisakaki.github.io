@@ -14,7 +14,7 @@ Conditionally accepted at the **World Bank Economic Review**<br>
 
 <br>
 
-# Working Papers
+# Work in Progress
 
 1. **Trade-induced Structural Transformation and Household-level Inequality: Lessons from Vietnam**<br>
 *Funded by STEG PhD Grant*
